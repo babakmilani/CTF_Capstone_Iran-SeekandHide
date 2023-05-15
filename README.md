@@ -7,6 +7,7 @@ I reverse engineered the images to find clues to what the pictures are hiding.
 Turns out that they are logo brands for games and consoles. 
 After figuring out what the hidden text is for each picture, I ran them in an online steghide
 to get the hidden message. 
+
 ![image](https://github.com/babakmilani/CTF_Capstone_Iran-SeekandHide/assets/55906428/4debd488-7620-40ab-ac22-367bc36762ad)
 
 ![image](https://github.com/babakmilani/CTF_Capstone_Iran-SeekandHide/assets/55906428/9b89866f-7683-4985-a601-e8ada044be62)
