@@ -12,4 +12,4 @@ to get the hidden message.
 
 ![image](https://github.com/babakmilani/CTF_Capstone_Iran-SeekandHide/assets/55906428/9b89866f-7683-4985-a601-e8ada044be62)
 
-![Uploading capture_iran.gif…]()
+![capture_iran](https://github.com/babakmilani/CTF_Capstone_Iran-SeekandHide/assets/55906428/46229fa4-f00a-4c52-b7a4-d10d6be722eb)
