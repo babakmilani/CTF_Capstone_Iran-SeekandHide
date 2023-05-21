@@ -12,3 +12,5 @@ to get the hidden message.
 
 ![image](https://github.com/babakmilani/CTF_Capstone_Iran-SeekandHide/assets/55906428/9b89866f-7683-4985-a601-e8ada044be62)
 
+
+![Capture_Iran_HideAndSeek-min](https://github.com/babakmilani/CTF_Capstone_Iran-SeekandHide/assets/55906428/356b82c4-cc8d-411f-891b-8060f85c7c21)
